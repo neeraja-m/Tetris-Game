@@ -1,0 +1,10 @@
+test1:9900
+Test2:7600
+Test6:6430
+Test8:4300
+Test10:3220
+Test5:3200
+neee:2560
+Neeraja:1980
+neeraja:1550
+test:1310
